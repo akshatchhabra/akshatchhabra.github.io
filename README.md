@@ -4,10 +4,8 @@
 #### Technical Skills: Python, Java, PyTorch, SQL, Android, Qiskit
 
 ## Education
-| Degree                                                 | Institution                                       | Graduation Date     |
-| :----------------------------------------------------- | :-----------------------------------------------  | :------------------ |
-| M.S., Computer Science (Concentration in Data Science) | University of Massachusetts Amherst               | December 2023       |
-| B.Tech., Information Technology                        | Vellore Institute of Technology                   | June 2016           |
+- M.S., Computer Science (Concentration in Data Science) | University of Massachusetts Amherst(_December 2023_)	 			        		
+- B.Tech., Information Technology | Vellore Insititute of Technology (_June 2016_)
 
 ## Work Experience
 **Data Science Intern @ Microsoft (_January 2023 - February 2023_)**
