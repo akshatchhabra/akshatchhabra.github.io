@@ -31,7 +31,7 @@ JPM Android apps by making updates to close to 50,000 lines of code.
 ### TransLRPL 
 [GitHub Link](https://www.github.com/akshatchhabra/TransLRPL)
 
-Implemented and evaluated data augmentation techniques for improving translation of low-resource programming languages in collaboration with IBM Research. Synthesized data using back-translation to counter the lack of training data (GitHub link)
+Implemented and evaluated data augmentation techniques for improving translation of low-resource programming languages in collaboration with IBM Research. Synthesized data using back-translation to counter the lack of training data.
 
 ### Shakespeare It! 
 [GitHub Link](https://github.com/akshatchhabra/shakespeare-it)
@@ -41,7 +41,7 @@ A text style transfer application that transforms a given text into the style of
 ### The Temple of Light 
 [GitHub Link](https://github.com/akshatchhabra/the_temple_of_light)
 
-A puzzle game with the primary goal of imparting fundamental optics concepts to children, it involved solving puzzles that required the strategic arrangement of mirrors and lenses to precisely guide light in the intended direction. The game was written in C# and developed using the Unity Game Engine. (GitHub link)
+A puzzle game with the primary goal of imparting fundamental optics concepts to children, it involved solving puzzles that required the strategic arrangement of mirrors and lenses to precisely guide light in the intended direction. The game was written in C# and developed using the Unity Game Engine.
 
 
 ## Teaching
