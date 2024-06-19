@@ -8,6 +8,10 @@
 - B.Tech., Information Technology | Vellore Insititute of Technology (_June 2016_)
 
 ## Work Experience
+**Software Engineer, OpenReview (_February 2024 - Present_)**
+- Assisting in the enhancement and upkeep of OpenReview APIs and Frontend.
+- Created a Python script to analyze user data, identify duplicate profiles, and developed a mechanism for merging profiles automatically on the OpenReview platform, resulting in the detection and resolution of 700 duplicate profiles, thereby mitigating impersonation risks on the platform.
+
 **Data Science Intern @ Microsoft (_January 2023 - February 2023_)**
 - Converted a proprietary testing tool used for testing IVRs and chatbots built using Nuance Mix, to an open-source
 project, allowing anyone to use and contribute to the tool.
