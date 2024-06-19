@@ -1,7 +1,7 @@
 # Software Engineer
 
 
-#### Technical Skills: Python, Java, PyTorch, SQL, Android, Qiskit
+#### Technical Skills: Python, JavaScript, Java, PyTorch, SQL, Android, Qiskit
 
 ## Education
 - M.S., Computer Science (Concentration in Data Science) | University of Massachusetts Amherst(_December 2023_)	 			        		
