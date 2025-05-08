@@ -5,7 +5,7 @@
 
 ## Education
 - M.S., Computer Science (Concentration in Data Science) | University of Massachusetts Amherst(_February 2024_)	 			        		
-- B.Tech., Information Technology | Vellore Insititute of Technology (_June 2016_)
+- B.Tech., Information Technology | Vellore Insititute of Technology (_June 2020_)
 
 ## Work Experience
 **Software Engineer @ OpenReview (_February 2024 - February 2025_)**
