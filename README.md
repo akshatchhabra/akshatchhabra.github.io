@@ -4,7 +4,7 @@
 #### Technical Skills: Python, Java, Kotlin, JavaScript, C#, PyTorch, SQL
 
 ## Education
-- M.S., Computer Science (Concentration in Data Science) | University of Massachusetts Amherst(_December 2023_)	 			        		
+- M.S., Computer Science (Concentration in Data Science) | University of Massachusetts Amherst(_February 2024_)	 			        		
 - B.Tech., Information Technology | Vellore Insititute of Technology (_June 2016_)
 
 ## Work Experience
