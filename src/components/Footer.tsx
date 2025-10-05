@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex flex-col items-center gap-6">
           <div className="flex gap-6">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/akshatchhabra"
               target="_blank"
               rel="noopener noreferrer"
               className="text-foreground/60 hover:text-primary transition-colors duration-200"
@@ -16,7 +16,7 @@ const Footer = () => {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/akshatchhabra"
               target="_blank"
               rel="noopener noreferrer"
               className="text-foreground/60 hover:text-primary transition-colors duration-200"
@@ -24,13 +24,13 @@ const Footer = () => {
             >
               <Linkedin className="w-6 h-6" />
             </a>
-            <a
+            {/* <a
               href="mailto:your.email@example.com"
               className="text-foreground/60 hover:text-primary transition-colors duration-200"
               aria-label="Email"
             >
               <Mail className="w-6 h-6" />
-            </a>
+            </a> */}
           </div>
           <p className="text-foreground/60 text-sm text-center">
             © {new Date().getFullYear()} Akshat Chhabra. Built with React & Tailwind CSS.
